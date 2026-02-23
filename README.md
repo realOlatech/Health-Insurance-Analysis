@@ -1,7 +1,7 @@
 # Health Insurance Coverage & Penetration Gap Analysis
 
 ### Project Overview
-
+---
 This project analyzes health insurance data across multiple neighborhoods and age groups to evaluate insurance penetration, coverage rates, and uninsured exposure. The objective is to identify demographic segments with enrollment gaps and quantify the disparity between insurance availability and actual participation.
 
 ### Business Problem
@@ -100,3 +100,33 @@ This age group demonstrates the strongest insurance participation. Stable employ
 - 65+
    - Penetration Rate: 29%
    - Coverage Rate: 99% (Highest)
+
+Although coverage is nearly universal, penetration remains low. This suggests that eligibility or coverage structures exist, but private enrollment may be limited. Public health programs may play a significant role in this age group.
+
+### Comparative Insights
+
+- Higher coverage does not automatically translate into higher penetration.
+- The largest insurance gap exists among Under 18 and 65+ populations.
+- The 35–64 group represents the most stable and insured demographic.
+
+More than half of the overall population remains uninsured (55%), highlighting a significant policy and market opportunity.
+
+### Recommendations
+
+- Target Under 18 Population
+   - Promote family insurance packages
+   - Increase awareness through schools and community programs
+   - Provide subsidized child coverage options
+
+- Improve Young Adult Enrollment
+   - Introduce flexible and affordable plans
+   - Leverage digital enrollment platforms
+
+- Enhance Senior Enrollment Support
+  - Simplify registration processes
+  - Provide assisted enrollment services
+ 
+### Conclusion
+---
+The analysis highlights a critical gap between insurance coverage availability and actual enrollment. While coverage rates are high across age groups, penetration remains moderate, and uninsured levels are significant.
+Strategic interventions targeting vulnerable and under-enrolled groups particularly Under 18 and 65+ populations could substantially improve overall insurance participation and reduce uninsured rates.
