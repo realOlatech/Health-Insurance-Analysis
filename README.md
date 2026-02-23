@@ -53,3 +53,50 @@ Although insurance coverage infrastructure exists, actual enrollment remains une
    - Dashboard Design
 
 <img width="652" height="400" alt="My DB" src="https://github.com/user-attachments/assets/862c3a5d-7b30-4d22-92e1-100e6bbbe668" />
+
+---
+
+# 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐑𝐞𝐩𝐨𝐫𝐭
+
+### 𝐓𝐡𝐢𝐬 𝐚𝐧𝐚𝐥𝐲𝐬𝐢𝐬 𝐟𝐨𝐜𝐮𝐬𝐞𝐬 𝐨𝐧 𝐟𝐨𝐮𝐫 𝐚𝐠𝐞 𝐜𝐚𝐭𝐞𝐠𝐨𝐫𝐢𝐞𝐬:
+
+- Under 18
+- 18–34
+- 35–64
+- 65+
+
+### 𝐓𝐡𝐞 𝐝𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝 𝐫𝐞𝐯𝐞𝐚𝐥𝐬 𝐭𝐡𝐞 𝐟𝐨𝐥𝐥𝐨𝐰𝐢𝐧𝐠 𝐨𝐯𝐞𝐫𝐚𝐥𝐥 𝐚𝐯𝐞𝐫𝐚𝐠𝐞𝐬:
+
+- Average Coverage Rate: 89%
+- Average Insurance Penetration Rate: 45%
+- Average Uninsured Rate: 55%
+
+#### Key Observation:
+
+Although coverage availability is high (89%), actual insurance penetration is significantly lower (45%). This indicates a gap between availability and enrollment, suggesting that accessibility alone does not guarantee participation.
+
+### Age Group Analysis
+
+- Under 18
+  - Penetration Rate: 34%
+  - Uninsured Rate: 66%
+
+This group has the lowest insurance penetration and the highest rate of uninsured individuals. This may indicate limited parental enrollment, affordability challenges, or low awareness of child-focused insurance programs.
+
+- 18–34
+   - Penetration Rate: 58%
+   - Coverage Rate: 83%
+   - Uninsured Rate: 42%
+
+Young adults show moderate penetration levels. However, a substantial portion remains uninsured. Possible reasons include informal employment, lower perceived health risk, and cost sensitivity.
+
+- 35–64
+   - Penetration Rate: 60% (Highest)
+   - Coverage Rate: 86%
+   - Uninsured Rate: 40%
+
+This age group demonstrates the strongest insurance participation. Stable employment and increased health awareness are likely contributing factors to higher enrollment rates.
+
+- 65+
+   - Penetration Rate: 29%
+   - Coverage Rate: 99% (Highest)
